@@ -8,3 +8,4 @@
 * 7-movethatfile: Move the file betty from /tmp/ to /tmp/holberton.
 * 8-firstdelete: Delete the file betty in /tmp/ directory.
 * 9-firstdirdeletion: Delete the directory holberton that is in the /tmp directory.
+* 10-back: changes the working directory to the previous one.
