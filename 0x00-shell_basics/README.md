@@ -9,3 +9,6 @@
 * 8-firstdelete: Delete the file betty in /tmp/ directory.
 * 9-firstdirdeletion: Delete the directory holberton that is in the /tmp directory.
 * 10-back: changes the working directory to the previous one.
+* 11-lists: ists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working
+directory and the /boot directory (in this order), in long format.
+* 
